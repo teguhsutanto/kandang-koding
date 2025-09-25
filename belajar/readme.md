@@ -14,7 +14,7 @@ URL:
 ## Robot 
 [Halang rintang](https://www.robotique.tech/robotics/obstacle-avoiding-robot-using-microbit/)
 
-(Diplay seven segment)[https://www.fredscave.com/interface/int-05led-tm1637-display.html]
+[Diplay seven segment](https://www.fredscave.com/interface/int-05led-tm1637-display.html)
 
-(Remote Car)[https://www.instructables.com/How-to-Make-a-Remote-Control-Car/]
+[Remote Car](https://www.instructables.com/How-to-Make-a-Remote-Control-Car/)
 
